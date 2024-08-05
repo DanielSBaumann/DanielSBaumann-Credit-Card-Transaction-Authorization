@@ -41,8 +41,8 @@ Este projeto é uma aplicação de autorização de transações de cartão de c
 1. **Clone o Repositório**
 
    ```sh
-   git clone [https://github.com/DanielSBaumann/DanielSBaumann-Credit-Card-Transaction-Authorization](https://github.com/DanielSBaumann/DanielSBaumann-Credit-Card-Transaction-Authorization.git)
-   cd Credit-Card-Transaction-Authorization
+   git clone https://github.com/DanielSBaumann/DanielSBaumann-Credit-Card-Transaction-Authorization.git
+   cd DanielSBaumann-Credit-Card-Transaction-Authorization
    ```
 
 2. **Build do Projeto**
